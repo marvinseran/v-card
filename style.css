@@ -1,0 +1,59 @@
+h1, h2{
+	text-align: center;
+}
+
+h1 {
+    font-size: 1.8rem;
+}
+h2 {
+    font-size: 1.5rem;
+}
+body{
+	font-family: 'Orbitron', sans-serif;
+	background: linear-gradient(to right, #317AC1 20%, #E1A624 80%);
+	margin: 20px;
+	
+}
+
+.circular {
+	filter: drop-shadow(4px 2px 15px black); border-radius: 30px;
+	width: 20%;
+	height: 20%; 
+}
+footer {
+}
+.container{
+	display: flex;
+	flex-direction: row;
+}
+.pro{
+}
+.imgpro{
+	display: flex;
+	justify-content: center;
+}
+.link {
+	display: flex;
+	flex-direction: row;
+	height: 100%;
+	margin: 20px;
+	justify-content: center;
+}
+img:hover{
+	transform: scale(1.1);
+}
+.x{
+	margin: 7px;
+}
+
+.git{
+	margin: 7px;
+}
+
+.linkedin{
+	margin: 7px;
+}
+
+p{
+	text-align: center;
+}
